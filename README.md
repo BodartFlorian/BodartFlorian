@@ -1,4 +1,5 @@
 ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/header.png)
+ * * *
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix)](https://github.com/BodartFlorian/github-profile-trophy)
 
