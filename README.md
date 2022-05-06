@@ -3,7 +3,7 @@
 
  ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/Capture.PNG)
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix)](https://github.com/BodartFlorian/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix&rank=-C)](https://github.com/BodartFlorian/github-profile-trophy)
 <!--
 Here are some ideas to get you started:
 
