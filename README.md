@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
- ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/Capture.PNG)
- 
+<!--  ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/Capture.PNG) -->
+ [Cover](https://bodartflorian.github.io/Fighting/)
  [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix)](https://github.com/BodartFlorian/github-profile-trophy)
+
+
 <!--
-Here are some ideas to get you started:
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
