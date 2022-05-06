@@ -2,7 +2,7 @@
 
 
 <!--  ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/Capture.PNG) -->
- [Cover](https://bodartflorian.github.io/Fighting/index.html)
+ [Cover](https://bodartflorian.github.io/Fighting/)
  [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix)](https://github.com/BodartFlorian/github-profile-trophy)
 
 
