@@ -2,7 +2,11 @@
 <!--  * * *
  <br> -->
  
- ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png =250x250)
+ ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png)
+ 
+ 
+ 
+ <img src="https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 <!--  * * *
  <br> -->
  
