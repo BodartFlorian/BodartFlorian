@@ -2,7 +2,7 @@
 <!--  * * *
  <br> -->
  
- ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png)
+ ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png =250x250)
 <!--  * * *
  <br> -->
  
