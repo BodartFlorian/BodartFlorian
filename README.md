@@ -2,6 +2,11 @@
 <!--  * * *
  <br> -->
  
+ ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_bodart_florian.png)
+<!--  * * *
+ <br> -->
+ 
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BodartFlorian&theme=matrix)](https://github.com/BodartFlorian/github-profile-trophy)
 
