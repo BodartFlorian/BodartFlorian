@@ -10,7 +10,7 @@
 <hr>
 <br> 
 
-![Cover](https://github.com/BodartFlorian/BodartFlorian/edit/main/img/CV_Bodart_Florian.png)
+![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_Bodart_Florian.png)
 
 <!--  * * *
 <br> -->
