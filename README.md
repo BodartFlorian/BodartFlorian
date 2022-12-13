@@ -11,6 +11,7 @@
 <br> 
 
 ![Cover](https://github.com/BodartFlorian/BodartFlorian/blob/main/img/CV_Bodart_Florian.png)
+
 <!--  * * *
 <br> -->
  
